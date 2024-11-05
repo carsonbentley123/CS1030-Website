@@ -1,0 +1,55 @@
+/*
+  white: #FFFFFF
+  accent1: #164d25
+  accent2: #4f3b15
+*/
+
+body {
+  padding: 0.5em;
+  font-size: 110%;
+}
+
+h1, h2, h3 {
+  color: #164d25
+}
+
+h1{
+  text-align: center;
+}
+
+th, td {
+  border: solid #4f3b15 2px;
+  padding: 1px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a{
+  color: #164d25;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #4f3b15;
+}
+
+.text_content {
+  background-color: #164d25;
+  color: white;
+  width: 75%;
+  padding: 1em;
+  border: dashed #4f3b15 3px;
+  margin: 1em;
+}
+
+div {
+  background-color: #164d25;
+  width: 646px;
+  padding: 1em;
+  border: dotted #4f3b15 2px;
+  margin: 1em;
+
+}

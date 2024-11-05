@@ -1,0 +1,35 @@
+
+#body{
+    background-color: #1D4859;
+    
+    color: green;
+}
+
+h1, img {
+    text-align: center;
+}
+.heading-text{
+    text-align: center;
+    font-size: 1.2em
+}
+
+th, td {
+    border: black solid 3px;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a{
+    color: red;
+    font-weight: bold;
+}
+
+a:hover{
+    color: blue;
+}
+
