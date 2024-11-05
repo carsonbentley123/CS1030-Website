@@ -1,0 +1,17 @@
+body {
+  background-color: light blue;
+}
+th, td {
+    border: black solid 3px;
+    padding: 5px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1, h2 {
+  color: blue;
+}
